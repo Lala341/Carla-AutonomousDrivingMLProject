@@ -42,10 +42,5 @@ We provide a pretrained PPO agent for the lap environment. To run it:
 python run_eval.py --model_name ppo_vae_seg_add4 -start_carla
 
 
-### Running a Trained Agent
 
-We provide a pretrained PPO agent for the lap environment. To run it:
-
-```bash
-python run_eval.py --model_name ppo_vae_seg_add4 -start_carla
 
